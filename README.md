@@ -28,7 +28,7 @@
     ```
 2. Откройте `index.html` в вашем браузере.
 3. Посмотреть можно здесь:
-([https://torkvata87.github.io/evklid/](https://torkvata87.github.io/radio-w-wave/)
+([https://torkvata87.github.io/radio-w-wave/](https://torkvata87.github.io/radio-w-wave/)
 
 ## Использование
 
